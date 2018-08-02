@@ -1,0 +1,17 @@
+::1 - - [26/Jul/2018:16:07:34 -0500] "GET /MAMP/?language=English HTTP/1.1" 200 16457
+::1 - - [26/Jul/2018:16:07:55 -0500] "GET / HTTP/1.1" 200 1231
+::1 - - [26/Jul/2018:16:08:02 -0500] "GET /public/ HTTP/1.1" 200 2321
+::1 - - [26/Jul/2018:16:20:59 -0500] "GET /public/ HTTP/1.1" 200 2321
+::1 - - [26/Jul/2018:16:20:59 -0500] "GET /favicon.ico HTTP/1.1" 200 1150
+::1 - - [26/Jul/2018:16:22:38 -0500] "GET /MAMP/?language=English HTTP/1.1" 200 16457
+::1 - - [26/Jul/2018:16:22:38 -0500] "GET /MAMP/feed/needsUpdate.txt HTTP/1.1" 200 1
+::1 - - [26/Jul/2018:16:23:13 -0500] "GET / HTTP/1.1" 200 1231
+::1 - - [26/Jul/2018:16:23:15 -0500] "GET /public/ HTTP/1.1" 200 2321
+::1 - - [26/Jul/2018:16:24:10 -0500] "GET /MAMP/?language=English HTTP/1.1" 200 16457
+::1 - - [26/Jul/2018:16:24:12 -0500] "GET /MAMP/feed/needsUpdate.txt HTTP/1.1" 200 1
+::1 - - [26/Jul/2018:16:49:40 -0500] "GET /public/ HTTP/1.1" 200 2321
+::1 - - [26/Jul/2018:16:50:26 -0500] "GET /MAMP/?language=English HTTP/1.1" 200 16457
+::1 - - [26/Jul/2018:16:50:29 -0500] "GET /MAMP/feed/needsUpdate.txt HTTP/1.1" 200 1
+::1 - - [26/Jul/2018:16:53:05 -0500] "GET /public/ HTTP/1.1" 301 236
+::1 - - [26/Jul/2018:16:53:05 -0500] "GET /public HTTP/1.1" 404 1482
+::1 - - [26/Jul/2018:16:53:07 -0500] "GET / HTTP/1.1" 200 2321
